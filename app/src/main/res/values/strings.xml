@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dicoding Submission</string>
+    <string name="menu_about">About</string>
+    <string name="raider_name">Kamen Raider Name</string>
+    <string name="raider_type">Kamen Raider Type</string>
+    <string name="about_name">Moh Aly Shodiqin</string>
+    <string name="about_email">felix_progressif@yahoo.com</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_share">Share</string>
+</resources>
